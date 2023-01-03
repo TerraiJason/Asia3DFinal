@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6252b8040c140f468c56566e42c39b4, type: 3}
+  m_Name: corridor talk
+  m_EditorClassIdentifier: 
+  dialogueName: "\u6211"
+  dialogueContents:
+  - "\u9019\u8D70\u5ECA..."
+  - "\u65C1\u908A\u7684\u756B\u4F5C\u771F\u8B93\u4EBA\u6BDB\u9AA8\u609A\u7136"
+  - "\u611F\u89BA\u6B64\u5730\u4E0D\u5B9C\u4E45\u7559\uFF0C\u7D66\u8981\u8D95\u7DCA\u9003\u51FA\u53BB"
